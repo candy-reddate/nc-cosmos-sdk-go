@@ -4,7 +4,7 @@
 ## Quick Start
 
 
-edit  go.mod
+### Edit  go.mod
 
 ```
 require (
@@ -30,7 +30,7 @@ replace (
 )
 ```
 
-### crate and use nc-cosmos-client
+### Create and use nc-cosmos-client
 
 [examples](./examples/main.go)
 
